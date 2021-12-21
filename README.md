@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Syp in HangZhou
+- 👋 Hello, I’m Syp in HangZhou，and I’m a front-end engineer.
 
 <!---
 LogicSong/LogicSong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
